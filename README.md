@@ -1,5 +1,5 @@
 # airflow hacks we use
-contrib: @kris-savoy
+contrib: [Kris savoy](https://github.com/kris-savoy/airflow-salt "Devops / automation professional and software engineer")
 
 ##### Operators and hooks
 **https_operator**
