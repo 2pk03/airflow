@@ -1,0 +1,10 @@
+--- views.py	2016-07-08 09:51:52.020434177 -0500
++++ views.py.1	2016-07-08 09:51:38.036801561 -0500
+@@ -2220,6 +2220,7 @@
+             ('google_cloud_platform', 'Google Cloud Platform'),
+             ('hdfs', 'HDFS',),
+             ('http', 'HTTP',),
++            ('https', 'HTTPS',),
+             ('hive_cli', 'Hive Client Wrapper',),
+             ('hive_metastore', 'Hive Metastore Thrift',),
+             ('hiveserver2', 'Hive Server 2 Thrift',),
