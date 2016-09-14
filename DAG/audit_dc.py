@@ -11,7 +11,7 @@ default_args = {
     'owner': 'alo-alt',
     'depends_on_past': False,
     'start_date': datetime(2016, 7, 6),
-    'email': ['devops@evariant.com'],
+    'email': ['add@email.here'],
     'email_on_failure': True,
     'email_on_retry': False,
     'retries': 1,
